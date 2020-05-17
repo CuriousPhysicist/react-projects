@@ -1,4 +1,7 @@
 **/tmp/**/*
 **/log/*.*
+./log/*.*
+**/log/*.log
+*.log
 **/public/assets
 **/public/packs
