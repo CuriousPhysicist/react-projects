@@ -182,3 +182,56 @@ Processing by StaticController#index as HTML
 Completed 200 OK in 14ms (Views: 12.6ms | ActiveRecord: 0.0ms | Allocations: 3852)
 
 
+Started GET "/" for 127.0.0.1 at 2020-05-17 07:42:26 +0100
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by StaticController#index as HTML
+  Rendering static/index.html.erb within layouts/application
+  Rendered static/index.html.erb within layouts/application (Duration: 6.4ms | Allocations: 1508)
+Completed 200 OK in 32ms (Views: 22.1ms | ActiveRecord: 0.0ms | Allocations: 7606)
+
+
+Started GET "/" for 127.0.0.1 at 2020-05-17 07:44:30 +0100
+Processing by StaticController#index as HTML
+  Rendering static/index.html.erb within layouts/application
+  Rendered static/index.html.erb within layouts/application (Duration: 6.6ms | Allocations: 1104)
+Completed 200 OK in 20ms (Views: 18.1ms | ActiveRecord: 0.0ms | Allocations: 3733)
+
+
+Started GET "/" for 127.0.0.1 at 2020-05-17 07:46:22 +0100
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by StaticController#index as HTML
+  Rendering static/index.html.erb within layouts/application
+  Rendered static/index.html.erb within layouts/application (Duration: 1.7ms | Allocations: 1064)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms | Allocations: 3856)
+
+
+Started GET "/" for 127.0.0.1 at 2020-05-17 07:46:31 +0100
+Processing by StaticController#index as HTML
+  Rendering static/index.html.erb within layouts/application
+  Rendered static/index.html.erb within layouts/application (Duration: 3.0ms | Allocations: 1104)
+Completed 200 OK in 11ms (Views: 9.5ms | ActiveRecord: 0.0ms | Allocations: 3732)
+
+
+Started GET "/" for 127.0.0.1 at 2020-05-17 07:49:09 +0100
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by StaticController#index as HTML
+  Rendering static/index.html.erb within layouts/application
+  Rendered static/index.html.erb within layouts/application (Duration: 1.7ms | Allocations: 1065)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms | Allocations: 3861)
+
+
+Started GET "/" for 127.0.0.1 at 2020-05-17 07:49:14 +0100
+Processing by StaticController#index as HTML
+  Rendering static/index.html.erb within layouts/application
+  Rendered static/index.html.erb within layouts/application (Duration: 1.8ms | Allocations: 1103)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms | Allocations: 3728)
+
+
+Started GET "/" for 127.0.0.1 at 2020-05-17 07:50:00 +0100
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by StaticController#index as HTML
+  Rendering static/index.html.erb within layouts/application
+  Rendered static/index.html.erb within layouts/application (Duration: 1.8ms | Allocations: 1064)
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.0ms | Allocations: 3856)
+
+
