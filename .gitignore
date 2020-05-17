@@ -5,3 +5,10 @@
 *.log
 **/public/assets
 **/public/packs
+node_modules/**/*
+node_modules/
+**/node_modules/**/*
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
